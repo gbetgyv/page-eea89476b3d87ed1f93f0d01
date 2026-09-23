@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1015331c12197488f50df2b2",
+  "owner": "gbetgyv",
+  "repo": "page-eea89476b3d87ed1f93f0d01",
+  "title": "微斯人(Ash)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "eea89476b3d87ed1f93f0d01",
+      "a": "微斯人(Ash)",
+      "b": "2027最新官网",
+      "entity": "微斯人(Ash)",
+      "brand": "微斯人(Ash)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "758f7de786005f6b4f493b9556ea039aa0f22211b94f9c505cd497acd43967c1",
+      "content": {
+        "primary_entity": "微斯人(Ash)",
+        "keyword1": "微斯人(Ash)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统下载对应客户端并导入订阅链接，各平台兼容性以实际客户端说明为准。",
+          "AI_CLIENTS_TITLE": "客户端支持",
+          "AI_CLOSING_TEXT": "选好套餐，下载对应客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用微斯人(Ash)",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB至1000GB流量及3至20台设备同时在线，用户可按日常用量和设备数量灵活选择。客户端支持 Windows、macOS、iOS、Android 与路由器，配置以订阅链接导入为主。",
+          "AI_FEATURES_INTRO": "套餐流量、设备上限与线路定位不同，先明确自己的使用重心再选版本。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合轻度浏览与基础流媒体解锁。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备，含IPLC专线游戏加速和优先工单支持。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备，提供VIP高带宽节点与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按设备算需求",
+          "AI_FEATURE_TITLE_3": "按场景定线路",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅导入，三步即可开始。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "微斯人(Ash)提供基础版、旗舰版与团队版三档订阅，按月或按年付费，覆盖3至20台设备同时在线。用户可依据日常流量消耗与设备数量选择版本，并通过各平台客户端导入订阅链接使用。",
+          "AI_HERO_SUBTITLE": "多档订阅，按设备与流量选择",
+          "AI_HIGHLIGHT_1": "三档订阅按需选择",
+          "AI_HIGHLIGHT_2": "从3台到20台设备在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活计费",
+          "AI_PLANS_INTRO": "基础版每100GB流量、3台设备；旗舰版每月35元、每月300GB流量和5台设备，含IPLC专线与优先工单；团队版每月85元、1000GB流量和20台设备，附VIP节点与专属客户经理。按年付分别约合150元、350元和850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量用量和需要同时在线的设备台数，在基础版、旗舰版与团队版中选定一个版本。",
+          "AI_STEP_TEXT_2": "查看所选套餐对应的流量上限、设备数量和线路类型，判断是否覆盖日常使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备平台打开客户端文档，按指引粘贴订阅链接并更新节点配置，即可开始使用。",
+          "AI_STEP_TITLE_1": "选择订阅版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "微斯人(Ash)订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。若家中手机、电脑、平板同时使用，建议从旗舰版起步；小型团队可考虑团队版。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。日常浏览与轻量视频选基础版即可；经常观看高清流媒体或多人共用，选旗舰版或团队版更从容。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供IPLC专线节点，针对游戏加速优化；同时全节点支持原生流媒体解锁。基础版为普通线路节点池，也能满足常规流媒体访问。",
+          "AI_FAQ_ANSWER_4": "年付更划算。基础版年付150元，旗舰版350元，团队版850元，分别相当于每月15元、35元、85元的约十个月价格，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "手机端可用 Shadowrocket 或 Clash 类客户端，电脑端可选 Clash Verge 或 v2rayN，路由器可刷 OpenWrt 配合订阅插件。将订阅链接填入客户端即可完成配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "不同套餐的流量额度怎么选？",
+          "AI_FAQ_QUESTION_3": "旗舰版的IPLC专线适合什么场景？",
+          "AI_FAQ_QUESTION_4": "月付和年付哪个更划算？",
+          "AI_FAQ_QUESTION_5": "常用设备该选什么客户端导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--91-dn8cv02d.com",
+    "host": "xn--91-dn8cv02d.com"
+  },
+  "file_hashes": {
+    "index.html": "2fbab767644b3774e5edf97941cd48295f30152c8d68fd02423f9c03489a3d12",
+    "sitemap.xml": "89cb707e2bd59e3449e48bb8a33c526456b0c6f0fece2d5b16bff801773149cb",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "68735603cb2330829283388a7e4c5045dee007019dcfbae1cb521b36f7701016",
+    "robots.txt": "7733446ebd031309d890ddf1055c3ea3ab0fecc6da78828115854c9b11095bb8",
+    "f595173d3e3635f4c45c2e0bf334be74.txt": "0db64f04033552e524f15b597ba498564b4c4cadf06dbf7443a266d988b02b0a"
+  },
+  "revision": "aec89a7fdfb0098fb0fb46ac7dba9180dd4b9138a996f9f69436da623b83b88b"
+}
